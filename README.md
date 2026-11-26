@@ -70,3 +70,21 @@ This independent portfolio project demonstrates my practical understanding of IT
 
 ## Disclaimer
 All incidents are simulated for educational and professional development purposes.
+
+## Project Screenshots
+
+### Incident Management Dashboard
+
+![Incident Management Dashboard](Incident%20Management%20Dashboard.png)
+
+### Incidents by Status
+
+![Incidents by Status](Incident%20by%20Status.png)
+
+### Incidents by Priority
+
+![Incidents by Priority](Incident%20by%20Priority.png)
+
+### Incidents by Category
+
+![Incidents by Category](Incident%20by%20Category.png)
