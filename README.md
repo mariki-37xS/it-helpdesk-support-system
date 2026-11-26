@@ -1,39 +1,72 @@
 # IT Help Desk Support System
 
 ## Project Overview
-This project simulates a professional IT help desk environment to demonstrate technical support, troubleshooting, incident management, and customer service skills.
+A simulated IT help desk management system built using GitHub Issues and GitHub Projects to demonstrate practical IT Service Management (ITSM), incident management, technical troubleshooting, workflow automation, and operational reporting.
 
-## Project Objectives
-- Manage and track IT support tickets.
-- Diagnose common technical problems.
-- Document troubleshooting procedures.
-- Prioritize and resolve incidents.
-- Practice Git and GitHub version control.
+## Key Features
+- IT incident tracking and management
+- Incident categorization and prioritization
+- Ticket assignment and ownership
+- Incident escalation
+- Automated ticket creation and status management
+- Automated issue closure and reopening
+- Incident reporting and dashboard analytics
+- Technical troubleshooting documentation
 
-## Technical Skills
-- Git and GitHub
+## Incident Management Lifecycle
+
+Open → In Progress → Escalated (if required) → Resolved
+
+## Simulated Support Incidents
+
+| Incident ID | Description | Category |
+|---|---|---|
+| INC001 | User unable to log in to account | Account Access |
+| INC002 | User unable to connect to the internet | Network Connectivity |
+| INC003 | User unable to install software | Software Installation |
+| INC004 | User unable to print documents | Hardware |
+
+## Workflow Automation
+- Automatically add new matching issues to the project.
+- Assign an Open status to newly added incidents.
+- Automatically close issues marked as Resolved.
+- Return reopened incidents to Open status.
+- Automatically update project status when an issue is closed.
+
+## Reporting and Analytics
+The IT Help Desk Management Dashboard includes:
+- Incidents by Status
+- Incidents by Priority
+- Incidents by Category
+- Burn-up progress chart
+
+## Technical Skills Demonstrated
 - IT Service Management (ITSM)
 - Incident Management
 - Technical Troubleshooting
+- Incident Prioritization and Escalation
+- Workflow Automation
+- Reporting and Analytics
 - Technical Documentation
-- Customer Support
-
-## Planned Support Scenarios
-- Password reset
-- Internet connectivity issues
-- Software installation errors
-- VPN connection problems
-- Email access issues
-- Account lockouts
+- Git and GitHub Version Control
 
 ## Tools and Technologies
-- GitHub
+- GitHub Issues
+- GitHub Projects
+- GitHub Workflows
+- GitHub Insights
 - Markdown
-- CSV
-- ServiceNow concepts
+- Windows 11 support scenarios
+- ServiceNow ITSM concepts
+
+## Project Dashboard
+[IT Help Desk Management Dashboard](https://github.com/users/mariki-37xS/projects/1)
 
 ## Project Status
-In Progress
+Core functionality implemented. Ongoing improvements and additional support scenarios planned.
 
-## Purpose
-This portfolio project is part of my professional development toward a career in IT Support, Application Support, and AI Support
+## Professional Development
+This independent portfolio project demonstrates my practical understanding of IT support operations while pursuing ServiceNow University training and developing skills for a career in IT Support, Application Support, ServiceNow Support, and AI Support.
+
+## Disclaimer
+All incidents are simulated for educational and professional development purposes.
